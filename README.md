@@ -63,3 +63,9 @@ Authentication & Chat Interface
 Security Features Triggered (Duplicate/Lockout)
 <img width="470" height="567" alt="duplicate_login_prevention" src="https://github.com/user-attachments/assets/6032c690-206f-4422-9212-2e4879b0749d" />
 Wireshark Verification (TCP Handshake & Login)
+
+
+## Author
+**Gouriniban Borphukan** | Roll No. CSB24032
+B.Tech Computer Science & Engineering — Tezpur University
+ISEA Phase 3 Internship
