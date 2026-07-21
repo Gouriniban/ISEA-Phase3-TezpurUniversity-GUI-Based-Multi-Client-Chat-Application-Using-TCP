@@ -1,5 +1,5 @@
-<img width="758" height="490" alt="login_window" src="https://github.com/user-attachments/assets/74e4d1d4-c21b-4108-932a-0e7dfb5af13b" />
-<img width="970" height="727" alt="connected" src="https://github.com/user-attachments/assets/11d1e25f-ee4e-438d-9dad-613fc4c28f54" />
+<img width="970" height="727" alt="user_leave" src="https://github.com/user-attachments/assets/1f6ec945-6ecf-45d2-837c-fb39d669ddc8" />
+<img width="758" height="490" alt="login_window" src="https://github.com/user-attachments/assets/1c620b4b-0210-46fe-803d-c35584a5fd63" />
 # ISEA-Phase3-TezpurUniversity-GUI-Based-Multi-Client-Chat-Application-Using-TCP
 # ISEA-Phase3-TezpurUniversity — Assignment 6
 
@@ -7,9 +7,6 @@
 
 ## Project Title
 **Assignment 6: GUI-Based Multi-Client Chat Application Using TCP**
-
----![Uploading user_leave.png…]()
-
 
 ## Objective
 Convert the terminal-based TCP chat application from Assignment 5 into a graphical desktop
