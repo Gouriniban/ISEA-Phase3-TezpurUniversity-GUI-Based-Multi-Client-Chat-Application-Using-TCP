@@ -57,6 +57,9 @@ This project builds upon a foundational TCP chat client/server model by introduc
 
 Sample Screenshots
 
+<img width="970" height="727" alt="successful_authentication" src="https://github.com/user-attachments/assets/1be944e4-6057-454f-b244-933387ae99db" />
 Authentication & Chat Interface
+<img width="1853" height="888" alt="successful_login_wireshark" src="https://github.com/user-attachments/assets/ebc9313b-05d6-4e89-b00b-14dc3f16a9ac" />
 Security Features Triggered (Duplicate/Lockout)
+<img width="470" height="567" alt="duplicate_login_prevention" src="https://github.com/user-attachments/assets/6032c690-206f-4422-9212-2e4879b0749d" />
 Wireshark Verification (TCP Handshake & Login)
