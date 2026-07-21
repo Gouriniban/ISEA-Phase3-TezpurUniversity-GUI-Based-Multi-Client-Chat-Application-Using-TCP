@@ -3,10 +3,10 @@
 # ISEA-Phase3-TezpurUniversity-GUI-Based-Multi-Client-Chat-Application-Using-TCP
 # ISEA-Phase3-TezpurUniversity — Assignment 6
 
-## GUI-Based Multi-Client Chat Application Using TCP
+## Basic GUI-Based Multi-Client Chat Application Using TCP
 
 ## Project Title
-**Assignment 6: GUI-Based Multi-Client Chat Application Using TCP**
+**Assignment 6: Basic GUI-Based Multi-Client Chat Application Using TCP**
 
 ## Objective
 Convert the terminal-based TCP chat application from Assignment 5 into a graphical desktop
