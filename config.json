@@ -1,0 +1,9 @@
+{
+    "server_ip": "10.0.0.1",
+    "port": 5000,
+    "max_clients": 50,
+    "inactivity_timeout": 300.0,
+    "lockout_time": 60,
+    "max_failed_logins": 5,
+    "perf_log_interval": 5
+}
